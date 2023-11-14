@@ -53,22 +53,39 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-Emergency A (1 hour, 24/7) [entire mobile/online banking system is down] -> SysAdmins
+Emergency A (1 hour, 24/7) [entire POS Payment system is down] -> SysAdmins
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jICofpW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/FQuu52t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/1dpN3yD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/djo00Tm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
-Emergency B (4 hours, 24/7) [accounting department needs adobe upgrade, broken]
+Emergency B (4 hours, 24/7) [Procurement department needs Microsoft upgrade fixed.]
 </p>
 <br />
 
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Emergencies B & C (2 hours, business hours) [CFO’s laptop seems a bit slow]
+
+
+<img src="https://i.imgur.com/LfM3s9K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/hEeWTGV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/gBi3vOX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/Jsauvzb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  
+Emergencies C (2 hours, business hours)  Most of my department is having issues with our tablets.
+
 </p>
 <br />
