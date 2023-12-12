@@ -33,7 +33,7 @@ The Ticket Lifecycle in osTicket system efficiently manages customer issues from
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/J2jjrhk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WMAf9Ic.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 <img src="https://i.imgur.com/Xt2cX0y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
