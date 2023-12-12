@@ -83,7 +83,7 @@ Emergency B (4 hours, 24/7) [Procurement department needs Microsoft upgrade fixe
 <p>
 
 
-<img src="https://i.imgur.com/LfM3s9K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UzezSSH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <img src="https://i.imgur.com/hEeWTGV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
