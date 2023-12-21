@@ -33,7 +33,7 @@ The Ticket Lifecycle in osTicket system efficiently manages customer issues from
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/WMAf9Ic.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hZSVnoW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 <img src="https://i.imgur.com/Xt2cX0y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -56,7 +56,7 @@ The Ticket Lifecycle in osTicket system efficiently manages customer issues from
 
 <img src="https://i.imgur.com/GJlyQ8N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<img src="https://i.imgur.com/j0Jqazq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dAzLY7R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 </p>
 <p>
@@ -83,7 +83,7 @@ Emergency B (4 hours, 24/7) [Procurement department needs Microsoft upgrade fixe
 <p>
 
 
-<img src="https://i.imgur.com/UzezSSH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/igb4k7B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <img src="https://i.imgur.com/hEeWTGV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
